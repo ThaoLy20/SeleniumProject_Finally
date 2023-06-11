@@ -1,0 +1,50 @@
+[INFO] 23-05-2023 10:52:42 [main] [LogUtils] - --------------Thực thi Test Case ID: SU04_Không nhập Số điện thoại --------------
+[INFO] 23-05-2023 10:52:43 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 23-05-2023 10:52:54 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 23-05-2023 10:52:55 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 23-05-2023 10:53:10 [main] [LogUtils] - Executing: Open Url: https://unica.vn/
+[INFO] 23-05-2023 10:53:10 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 23-05-2023 10:53:16 [main] [LogUtils] - Executing: Enter text: Phạm Thị Thảo Ly
+[INFO] 23-05-2023 10:53:16 [main] [LogUtils] - Executing: Enter text: dohoang046@gmail.com
+[INFO] 23-05-2023 10:53:17 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 23-05-2023 10:53:17 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 23-05-2023 10:53:18 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 23-05-2023 10:53:18 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 23-05-2023 10:53:24 [main] [LogUtils] - Executing: Screenshot taken: SU04_Không nhập Số điện thoại 
+[INFO] 23-05-2023 10:53:24 [main] [LogUtils] - Verify text phone number of sign up page
+[INFO] 23-05-2023 10:58:42 [main] [LogUtils] - --------------Thực thi Test Case ID: SU04_Không nhập Số điện thoại --------------
+[INFO] 23-05-2023 10:58:44 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 23-05-2023 10:58:55 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 23-05-2023 10:58:58 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 23-05-2023 10:59:08 [main] [LogUtils] - Executing: Open Url: https://unica.vn/
+[INFO] 23-05-2023 10:59:09 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 23-05-2023 10:59:21 [main] [LogUtils] - Executing: Enter text: Phạm Thị Thảo Ly
+[INFO] 23-05-2023 10:59:22 [main] [LogUtils] - Executing: Enter text: dohoang046@gmail.com
+[INFO] 23-05-2023 10:59:22 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 23-05-2023 10:59:24 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 23-05-2023 10:59:24 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 23-05-2023 10:59:24 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 23-05-2023 10:59:30 [main] [LogUtils] - Executing: Screenshot taken: SU04_Không nhập Số điện thoại 
+[INFO] 23-05-2023 10:59:30 [main] [LogUtils] - Executing: Verify alert of phone number
+[INFO] 23-05-2023 10:59:30 [main] [LogUtils] - Expected Result: Please fill out this field.
+[INFO] 23-05-2023 10:59:30 [main] [LogUtils] - Actual Result: Please fill out this field.
+[INFO] 23-05-2023 10:59:30 [main] [LogUtils] - Same result ---> Pass
+[INFO] 23-05-2023 10:59:31 [main] [LogUtils] - Executing: Quit
+[INFO] 23-05-2023 11:00:54 [main] [LogUtils] - --------------Thực thi Test Case ID: SU04_Không nhập Số điện thoại --------------
+[INFO] 23-05-2023 11:00:55 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 23-05-2023 11:01:06 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 23-05-2023 11:01:08 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 23-05-2023 11:01:16 [main] [LogUtils] - Executing: Open Url: https://unica.vn/
+[INFO] 23-05-2023 11:01:16 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 23-05-2023 11:01:22 [main] [LogUtils] - Executing: Enter text: Phạm Thị Thảo Ly
+[INFO] 23-05-2023 11:01:23 [main] [LogUtils] - Executing: Enter text: dohoang046@gmail.com
+[INFO] 23-05-2023 11:01:23 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 23-05-2023 11:01:24 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 23-05-2023 11:01:25 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 23-05-2023 11:01:25 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 23-05-2023 11:01:32 [main] [LogUtils] - Executing: Screenshot taken: SU04_Không nhập Số điện thoại 
+[INFO] 23-05-2023 11:01:32 [main] [LogUtils] - Executing: Verify alert of phone number
+[INFO] 23-05-2023 11:01:32 [main] [LogUtils] - Expected Result: Please fill out this field.
+[INFO] 23-05-2023 11:01:32 [main] [LogUtils] - Actual Result: Please fill out this field.
+[INFO] 23-05-2023 11:01:32 [main] [LogUtils] - Same result ---> Pass
+[INFO] 23-05-2023 11:01:32 [main] [LogUtils] - Executing: Quit

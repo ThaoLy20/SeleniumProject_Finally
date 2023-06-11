@@ -1,0 +1,65 @@
+[INFO] 06-06-2023 11:53:22 [main] [LogUtils] - --------------Thực thi Test Case ID: S1_Tìm kiếm khoá học tương đối--------------
+[INFO] 06-06-2023 11:53:24 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 06-06-2023 11:53:32 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 06-06-2023 11:53:33 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 06-06-2023 11:53:39 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 06-06-2023 11:53:41 [main] [LogUtils] - Executing: Enter course name: Học giỏi Tiếng Anh toàn diện
+[INFO] 06-06-2023 11:53:42 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 06-06-2023 11:53:46 [main] [LogUtils] - Executing: Screenshot taken: S1_Tìm kiếm khoá học tương đối
+[INFO] 06-06-2023 11:53:46 [main] [LogUtils] - Executing: Verify text course name of search page
+[INFO] 06-06-2023 11:53:46 [main] [LogUtils] - Expected Result: Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết
+[INFO] 06-06-2023 11:53:46 [main] [LogUtils] - Actual Result: Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết
+[INFO] 06-06-2023 11:53:46 [main] [LogUtils] - Same result ---> Pass
+[INFO] 06-06-2023 11:53:46 [main] [LogUtils] - Executing: Quit
+[INFO] 06-06-2023 11:53:47 [main] [LogUtils] - --------------Thực thi Test Case ID: S2_Tìm kiếm khoá học tuyệt đối--------------
+[INFO] 06-06-2023 11:53:47 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 06-06-2023 11:53:51 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 06-06-2023 11:53:52 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 06-06-2023 11:54:00 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 06-06-2023 11:54:01 [main] [LogUtils] - Executing: Enter course name: Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết
+[INFO] 06-06-2023 11:54:02 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 06-06-2023 11:54:06 [main] [LogUtils] - Executing: Screenshot taken: S2_Tìm kiếm khoá học tuyệt đối
+[INFO] 06-06-2023 11:54:06 [main] [LogUtils] - Executing: Verify text course name of search page
+[INFO] 06-06-2023 11:54:07 [main] [LogUtils] - Expected Result: Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết
+[INFO] 06-06-2023 11:54:07 [main] [LogUtils] - Actual Result: Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết
+[INFO] 06-06-2023 11:54:07 [main] [LogUtils] - Same result ---> Pass
+[INFO] 06-06-2023 11:54:07 [main] [LogUtils] - Executing: Quit
+[INFO] 06-06-2023 11:54:09 [main] [LogUtils] - --------------Thực thi Test Case ID: S3_Tìm kiếm khoá học khi nhập ký tự đặc biệt--------------
+[INFO] 06-06-2023 11:54:09 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 06-06-2023 11:54:11 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 06-06-2023 11:54:11 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 06-06-2023 11:54:18 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 06-06-2023 11:54:19 [main] [LogUtils] - Executing: Enter course name: Học giỏi Tiếng Anh toàn diện @@
+[INFO] 06-06-2023 11:54:19 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 06-06-2023 11:54:23 [main] [LogUtils] - Executing: Screenshot taken: S3_Tìm kiếm khoá học khi nhập ký tự đặc biệt
+[INFO] 06-06-2023 11:54:23 [main] [LogUtils] - Executing: Get URL
+[INFO] 06-06-2023 11:54:26 [main] [LogUtils] - Expected result --> https://unica.vn/search?key=H%E1%BB%8Dc+gi%E1%BB%8Fi+Ti%E1%BA%BFng+Anh+to%C3%A0n+di%E1%BB%87n+%40%40
+[INFO] 06-06-2023 11:54:26 [main] [LogUtils] - Actual result --> https://unica.vn/search?key=H%E1%BB%8Dc+gi%E1%BB%8Fi+Ti%E1%BA%BFng+Anh+to%C3%A0n+di%E1%BB%87n+%40%40
+[INFO] 06-06-2023 11:54:26 [main] [LogUtils] - Same result ---> Pass
+[INFO] 06-06-2023 11:54:27 [main] [LogUtils] - Executing: Quit
+[INFO] 06-06-2023 11:54:28 [main] [LogUtils] - --------------Thực thi Test Case ID: S4_Tìm kiếm khoá học khi nhập dấu trắng trước--------------
+[INFO] 06-06-2023 11:54:28 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 06-06-2023 11:54:29 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 06-06-2023 11:54:30 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 06-06-2023 11:54:36 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 06-06-2023 11:54:37 [main] [LogUtils] - Executing: Enter course name:   Học giỏi Tiếng Anh toàn diện
+[INFO] 06-06-2023 11:54:37 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 06-06-2023 11:54:41 [main] [LogUtils] - Executing: Screenshot taken: S4_Tìm kiếm khoá học khi nhập dấu trắng trước
+[INFO] 06-06-2023 11:54:41 [main] [LogUtils] - Executing: Get URL
+[INFO] 06-06-2023 11:54:44 [main] [LogUtils] - Expected result --> https://unica.vn/search?key=++H%E1%BB%8Dc+gi%E1%BB%8Fi+Ti%E1%BA%BFng+Anh+to%C3%A0n+di%E1%BB%87n
+[INFO] 06-06-2023 11:54:44 [main] [LogUtils] - Actual result --> https://unica.vn/search?key=++H%E1%BB%8Dc+gi%E1%BB%8Fi+Ti%E1%BA%BFng+Anh+to%C3%A0n+di%E1%BB%87n
+[INFO] 06-06-2023 11:54:44 [main] [LogUtils] - Same result ---> Pass
+[INFO] 06-06-2023 11:54:45 [main] [LogUtils] - Executing: Quit
+[INFO] 06-06-2023 11:54:45 [main] [LogUtils] - --------------Thực thi Test Case ID: S5_ Không nhập tên khoá học--------------
+[INFO] 06-06-2023 11:54:45 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 06-06-2023 11:54:47 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 06-06-2023 11:54:47 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 06-06-2023 11:54:53 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 06-06-2023 11:54:54 [main] [LogUtils] - Executing: Enter course name: 
+[INFO] 06-06-2023 11:54:54 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 06-06-2023 11:54:56 [main] [LogUtils] - Executing: Screenshot taken: S5_ Không nhập tên khoá học
+[INFO] 06-06-2023 11:54:56 [main] [LogUtils] - Executing:  Verify alert course name of search page
+[INFO] 06-06-2023 11:54:56 [main] [LogUtils] - Expected Result: Please fill out this field.
+[INFO] 06-06-2023 11:54:56 [main] [LogUtils] - Actual Result: Please fill out this field.
+[INFO] 06-06-2023 11:54:56 [main] [LogUtils] - Same result ---> Pass
+[INFO] 06-06-2023 11:54:56 [main] [LogUtils] - Executing: Quit

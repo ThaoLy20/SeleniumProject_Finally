@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-11T15:51:10 ICT" name="Default suite" finished-at="2023-06-11T15:53:36 ICT" duration-ms="146155">
+    <groups>
+    </groups>
+    <test started-at="2023-06-11T15:51:10 ICT" name="Default test" finished-at="2023-06-11T15:53:36 ICT" duration-ms="146155">
+      <class name="executionEngine.ExecutionEngine">
+        <test-method signature="TestScriptSearchPage()[pri:0, instance:executionEngine.ExecutionEngine@8d7b252]" started-at="2023-06-11T15:51:10 ICT" name="TestScriptSearchPage" finished-at="2023-06-11T15:53:36 ICT" duration-ms="145786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestScriptSearchPage -->
+      </class> <!-- executionEngine.ExecutionEngine -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

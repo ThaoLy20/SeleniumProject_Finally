@@ -1,0 +1,626 @@
+[INFO] 05-06-2023 11:58:32 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 05-06-2023 11:58:33 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 11:58:42 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 11:58:44 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 11:58:50 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 11:58:51 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 05-06-2023 11:58:51 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 05-06-2023 11:58:53 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 05-06-2023 11:58:55 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 05-06-2023 11:58:56 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 05-06-2023 11:58:57 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 11:59:01 [main] [LogUtils] - Expected result: null
+[INFO] 05-06-2023 11:59:01 [main] [LogUtils] - Actual result: Phương pháp tự học tiếng anh đỉnh cao
+[ERROR] 05-06-2023 11:59:01 [main] [LogUtils] - Different result ---> Fail
+[INFO] 05-06-2023 11:59:01 [main] [LogUtils] - Executing: Screenshot taken: Cart02_Thêm khoá học vào giỏ hàng
+[INFO] 05-06-2023 11:59:02 [main] [LogUtils] - Executing: Click element: //i[@id='1657']
+[INFO] 05-06-2023 11:59:02 [main] [LogUtils] - Executing: Click element: //button[contains(text(),'Xóa khóa học')]
+[INFO] 05-06-2023 11:59:03 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 11:59:05 [main] [LogUtils] - Expected result: null
+[INFO] 05-06-2023 11:59:05 [main] [LogUtils] - Actual result: Giỏ hàng (0 khóa học)
+[ERROR] 05-06-2023 11:59:05 [main] [LogUtils] - Different result ---> Fail
+[INFO] 05-06-2023 11:59:05 [main] [LogUtils] - Executing: Screenshot taken: Cart03_Xoá khoá học trong giỏ hàng
+[INFO] 05-06-2023 11:59:05 [main] [LogUtils] - Executing: Quit
+[INFO] 05-06-2023 12:01:09 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 05-06-2023 12:01:10 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:01:17 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:01:18 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:01:24 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:01:24 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 05-06-2023 12:01:25 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 05-06-2023 12:01:26 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 05-06-2023 12:01:27 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 05-06-2023 12:01:30 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 05-06-2023 12:01:33 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:01:33 [main] [LogUtils] - Expected result: null
+[INFO] 05-06-2023 12:01:33 [main] [LogUtils] - Actual result: Phương pháp tự học tiếng anh đỉnh cao
+[INFO] 05-06-2023 12:05:46 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 05-06-2023 12:05:47 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:05:52 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:05:55 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:06:00 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:06:03 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 05-06-2023 12:06:04 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 05-06-2023 12:06:06 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 05-06-2023 12:06:08 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 05-06-2023 12:06:15 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 05-06-2023 12:06:17 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:06:17 [main] [LogUtils] - Expected result: Phương pháp tự học tiếng anh đỉnh cao
+[INFO] 05-06-2023 12:06:17 [main] [LogUtils] - Actual result: Phương pháp tự học tiếng anh đỉnh cao
+[INFO] 05-06-2023 12:06:17 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:06:18 [main] [LogUtils] - Executing: Screenshot taken: Cart02_Thêm khoá học vào giỏ hàng
+[INFO] 05-06-2023 12:06:19 [main] [LogUtils] - Executing: Click element: //i[@id='1657']
+[INFO] 05-06-2023 12:06:19 [main] [LogUtils] - Executing: Click element: //button[contains(text(),'Xóa khóa học')]
+[INFO] 05-06-2023 12:06:20 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:06:21 [main] [LogUtils] - Expected result: Giỏ hàng (0 khóa học)
+[INFO] 05-06-2023 12:06:21 [main] [LogUtils] - Actual result: Giỏ hàng (0 khóa học)
+[INFO] 05-06-2023 12:06:21 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:06:22 [main] [LogUtils] - Executing: Screenshot taken: Cart03_Xoá khoá học trong giỏ hàng
+[INFO] 05-06-2023 12:06:23 [main] [LogUtils] - Executing: Quit
+[INFO] 05-06-2023 12:09:59 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:10:00 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:10:05 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:10:06 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:10:12 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:10:13 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:10:15 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 05-06-2023 12:10:16 [main] [LogUtils] - Executing: Enter text: phamthaoly206+3@gmail.com
+[INFO] 05-06-2023 12:10:16 [main] [LogUtils] - Executing: Enter text: 0359065358
+[INFO] 05-06-2023 12:10:17 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:10:17 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:10:17 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:10:18 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:11:16 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:11:18 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:11:22 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:11:24 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:11:29 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:11:30 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:11:33 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:11:33 [main] [LogUtils] - Executing: Enter text: phamthaoly206+3@gmail.com
+[INFO] 05-06-2023 12:11:34 [main] [LogUtils] - Executing: Enter text: 0359065358
+[INFO] 05-06-2023 12:11:34 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:11:35 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:11:35 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:11:38 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:11:39 [main] [LogUtils] - Expected result: Phạm Ly
+[INFO] 05-06-2023 12:11:39 [main] [LogUtils] - Actual result: Học viên: Phạm Ly
+[INFO] 05-06-2023 12:11:39 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:11:39 [main] [LogUtils] - Executing: Click element: //img[@onerror="this.src='/media/img/av-df.png'"]
+[INFO] 05-06-2023 12:11:39 [main] [LogUtils] - Executing: Click element: //a[@class='btnDangxuat']
+[INFO] 05-06-2023 12:11:42 [main] [LogUtils] - Executing: Click button: //a[@class='unica-reg-acc']
+[INFO] 05-06-2023 12:13:45 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:13:46 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:13:50 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:13:52 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:13:59 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:14:00 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:14:03 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:14:04 [main] [LogUtils] - Executing: Enter text: phamthaoly206+5@gmail.com
+[INFO] 05-06-2023 12:14:04 [main] [LogUtils] - Executing: Enter text: 0359065333
+[INFO] 05-06-2023 12:14:05 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:14:06 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:14:06 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:14:10 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:14:10 [main] [LogUtils] - Expected result: Phạm Ly
+[INFO] 05-06-2023 12:14:10 [main] [LogUtils] - Actual result: Học viên: Phạm Ly
+[INFO] 05-06-2023 12:14:10 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:14:11 [main] [LogUtils] - Executing: Click element: //img[@onerror="this.src='/media/img/av-df.png'"]
+[INFO] 05-06-2023 12:14:11 [main] [LogUtils] - Executing: Click element: //a[@class='btnDangxuat']
+[INFO] 05-06-2023 12:14:15 [main] [LogUtils] - Executing: Enter text: phamthaoly206+3@gmail.com
+[INFO] 05-06-2023 12:14:15 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:14:16 [main] [LogUtils] - Executing: Click button: submitLogin
+[INFO] 05-06-2023 12:14:16 [main] [LogUtils] - Executing: Click element: //a[contains(text(),'Truy cập')]
+[INFO] 05-06-2023 12:14:19 [main] [LogUtils] - Executing: Click element: //a[contains(text(),'GỢI Ý KHÓA HỌC CHO TÔI')]
+[INFO] 05-06-2023 12:16:56 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:16:57 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:17:01 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:17:03 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:17:07 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:17:07 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:17:11 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:17:11 [main] [LogUtils] - Executing: Enter text: phamthaoly206+5@gmail.com
+[INFO] 05-06-2023 12:17:12 [main] [LogUtils] - Executing: Enter text: 0359065333
+[INFO] 05-06-2023 12:17:12 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:17:13 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:17:13 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:17:15 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:17:52 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:17:53 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:17:57 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:17:59 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:18:04 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:18:05 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:18:09 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:18:10 [main] [LogUtils] - Executing: Enter text: phamthaoly206+6@gmail.com
+[INFO] 05-06-2023 12:18:10 [main] [LogUtils] - Executing: Enter text: 0359065666
+[INFO] 05-06-2023 12:18:11 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:18:11 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:18:11 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:18:16 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:18:16 [main] [LogUtils] - Expected result: Phạm Ly
+[INFO] 05-06-2023 12:18:16 [main] [LogUtils] - Actual result: Học viên: Phạm Ly
+[INFO] 05-06-2023 12:18:16 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:18:17 [main] [LogUtils] - Executing: Click element: //img[@onerror="this.src='/media/img/av-df.png'"]
+[INFO] 05-06-2023 12:18:17 [main] [LogUtils] - Executing: Click element: //a[@class='btnDangxuat']
+[INFO] 05-06-2023 12:18:20 [main] [LogUtils] - Executing: Enter text: phamthaoly206+3@gmail.com
+[INFO] 05-06-2023 12:18:20 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:18:21 [main] [LogUtils] - Executing: Click button: submitLogin
+[INFO] 05-06-2023 12:18:21 [main] [LogUtils] - Executing: Click element: //a[contains(text(),'Truy cập')]
+[INFO] 05-06-2023 12:18:24 [main] [LogUtils] - Executing: Click element: //a[contains(text(),'GỢI Ý KHÓA HỌC CHO TÔI')]
+[INFO] 05-06-2023 12:20:56 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:20:57 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:21:02 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:21:04 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:21:11 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:21:11 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:21:15 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:21:15 [main] [LogUtils] - Executing: Enter text: phamthaoly206+7@gmail.com
+[INFO] 05-06-2023 12:21:16 [main] [LogUtils] - Executing: Enter text: 0359065777
+[INFO] 05-06-2023 12:21:16 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:21:17 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:21:17 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:21:21 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:21:21 [main] [LogUtils] - Expected result: Phạm Ly
+[INFO] 05-06-2023 12:21:21 [main] [LogUtils] - Actual result: Học viên: Phạm Ly
+[INFO] 05-06-2023 12:21:21 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:21:22 [main] [LogUtils] - Executing: Click element: //img[@onerror="this.src='/media/img/av-df.png'"]
+[INFO] 05-06-2023 12:21:23 [main] [LogUtils] - Executing: Click element: //a[@class='btnDangxuat']
+[INFO] 05-06-2023 12:21:27 [main] [LogUtils] - Executing: Enter text: phamthaoly206+3@gmail.com
+[INFO] 05-06-2023 12:21:27 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:21:27 [main] [LogUtils] - Executing: Click button: submitLogin
+[INFO] 05-06-2023 12:21:28 [main] [LogUtils] - Executing: Click element: //a[contains(text(),'Truy cập')]
+[INFO] 05-06-2023 12:21:31 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Ngoại ngữ')]
+[INFO] 05-06-2023 12:21:31 [main] [LogUtils] - Executing: Click button: //a[contains(text(),'Bước tiếp theo')]
+[INFO] 05-06-2023 12:21:33 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Tiếng Anh')]
+[INFO] 05-06-2023 12:21:33 [main] [LogUtils] - Executing: Click button: //a[normalize-space()='Hoàn thành']
+[INFO] 05-06-2023 12:21:35 [main] [LogUtils] - Executing: Click element: Luyện Phản xạ Tiếng
+[INFO] 05-06-2023 12:21:40 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 05-06-2023 12:21:41 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 05-06-2023 12:23:35 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:23:36 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:23:41 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:23:43 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:23:54 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:23:55 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:24:01 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:24:02 [main] [LogUtils] - Executing: Enter text: phamthaoly206+7@gmail.com
+[INFO] 05-06-2023 12:24:02 [main] [LogUtils] - Executing: Enter text: 0359065777
+[INFO] 05-06-2023 12:24:03 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:24:03 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:24:04 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:24:07 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:24:57 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:24:58 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:25:03 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:25:05 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:25:14 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:25:15 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:25:18 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:25:19 [main] [LogUtils] - Executing: Enter text: phamthaoly206+8@gmail.com
+[INFO] 05-06-2023 12:25:19 [main] [LogUtils] - Executing: Enter text: 0359065888
+[INFO] 05-06-2023 12:25:20 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:25:20 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:25:21 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:25:27 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:25:27 [main] [LogUtils] - Expected result: Phạm Ly
+[INFO] 05-06-2023 12:25:27 [main] [LogUtils] - Actual result: Học viên: Phạm Ly
+[INFO] 05-06-2023 12:25:27 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:25:27 [main] [LogUtils] - Executing: Click element: //img[@onerror="this.src='/media/img/av-df.png'"]
+[INFO] 05-06-2023 12:25:28 [main] [LogUtils] - Executing: Click element: //a[@class='btnDangxuat']
+[INFO] 05-06-2023 12:25:31 [main] [LogUtils] - Executing: Enter text: phamthaoly206+3@gmail.com
+[INFO] 05-06-2023 12:25:32 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:25:32 [main] [LogUtils] - Executing: Click button: submitLogin
+[INFO] 05-06-2023 12:25:33 [main] [LogUtils] - Executing: Click element: //a[contains(text(),'Truy cập')]
+[INFO] 05-06-2023 12:25:39 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Ngoại ngữ')]
+[INFO] 05-06-2023 12:26:18 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:26:20 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:26:25 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:26:27 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:26:33 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:26:34 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:26:39 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:26:39 [main] [LogUtils] - Executing: Enter text: phamthaoly206+8@gmail.com
+[INFO] 05-06-2023 12:26:40 [main] [LogUtils] - Executing: Enter text: 0359065888
+[INFO] 05-06-2023 12:26:40 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:26:41 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:26:41 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:26:43 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:27:35 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:27:36 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:27:41 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:27:43 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:27:54 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:27:55 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:27:59 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:27:59 [main] [LogUtils] - Executing: Enter text: phamthaoly206+010@gmail.com
+[INFO] 05-06-2023 12:28:00 [main] [LogUtils] - Executing: Enter text: 0359065010
+[INFO] 05-06-2023 12:28:00 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:28:01 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:28:01 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:28:06 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:28:06 [main] [LogUtils] - Expected result: Phạm Ly
+[INFO] 05-06-2023 12:28:06 [main] [LogUtils] - Actual result: Học viên: Phạm Ly
+[INFO] 05-06-2023 12:28:06 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:28:06 [main] [LogUtils] - Executing: Click element: //img[@onerror="this.src='/media/img/av-df.png'"]
+[INFO] 05-06-2023 12:28:07 [main] [LogUtils] - Executing: Click element: //a[@class='btnDangxuat']
+[INFO] 05-06-2023 12:28:10 [main] [LogUtils] - Executing: Enter text: phamthaoly206+010@gmail.com
+[INFO] 05-06-2023 12:28:11 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:28:11 [main] [LogUtils] - Executing: Click button: submitLogin
+[INFO] 05-06-2023 12:28:11 [main] [LogUtils] - Executing: Click element: //a[contains(text(),'Truy cập')]
+[INFO] 05-06-2023 12:28:16 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Ngoại ngữ')]
+[INFO] 05-06-2023 12:28:17 [main] [LogUtils] - Executing: Click button: //a[contains(text(),'Bước tiếp theo')]
+[INFO] 05-06-2023 12:28:18 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Tiếng Anh')]
+[INFO] 05-06-2023 12:28:18 [main] [LogUtils] - Executing: Click button: //a[normalize-space()='Hoàn thành']
+[INFO] 05-06-2023 12:28:20 [main] [LogUtils] - Executing: Click element: Luyện Phản xạ Tiếng
+[INFO] 05-06-2023 12:28:27 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 05-06-2023 12:28:28 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 05-06-2023 12:30:55 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:30:56 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:31:01 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:31:03 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:31:10 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:31:10 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:31:15 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:31:16 [main] [LogUtils] - Executing: Enter text: phamthaoly206+011@gmail.com
+[INFO] 05-06-2023 12:31:16 [main] [LogUtils] - Executing: Enter text: 0359065011
+[INFO] 05-06-2023 12:31:17 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:31:17 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:31:17 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:31:23 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:31:23 [main] [LogUtils] - Expected result: Phạm Ly
+[INFO] 05-06-2023 12:31:23 [main] [LogUtils] - Actual result: Học viên: Phạm Ly
+[INFO] 05-06-2023 12:31:23 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:31:23 [main] [LogUtils] - Executing: Click element: //a[contains(text(),'GỢI Ý KHÓA HỌC CHO TÔI')]
+[INFO] 05-06-2023 12:32:40 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:32:41 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:32:45 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:32:47 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:32:53 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:32:54 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:32:59 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:33:00 [main] [LogUtils] - Executing: Enter text: phamthaoly206+011@gmail.com
+[INFO] 05-06-2023 12:33:00 [main] [LogUtils] - Executing: Enter text: 0359065011
+[INFO] 05-06-2023 12:33:00 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:33:01 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:33:01 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:33:03 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:33:57 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:33:58 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:34:02 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:34:03 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:34:11 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:34:12 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:34:15 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:34:15 [main] [LogUtils] - Executing: Enter text: phamthaoly206+012@gmail.com
+[INFO] 05-06-2023 12:34:15 [main] [LogUtils] - Executing: Enter text: 0359065012
+[INFO] 05-06-2023 12:34:16 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:34:16 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:34:16 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:34:20 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:34:20 [main] [LogUtils] - Expected result: Phạm Ly
+[INFO] 05-06-2023 12:34:20 [main] [LogUtils] - Actual result: Học viên: Phạm Ly
+[INFO] 05-06-2023 12:34:20 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:34:20 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Ngoại ngữ')]
+[INFO] 05-06-2023 12:34:20 [main] [LogUtils] - Executing: Click button: //a[contains(text(),'Bước tiếp theo')]
+[INFO] 05-06-2023 12:34:21 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Tiếng Anh')]
+[INFO] 05-06-2023 12:34:22 [main] [LogUtils] - Executing: Click button: //a[normalize-space()='Hoàn thành']
+[INFO] 05-06-2023 12:34:24 [main] [LogUtils] - Executing: Click element: Luyện Phản xạ Tiếng
+[INFO] 05-06-2023 12:34:30 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 05-06-2023 12:34:31 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 05-06-2023 12:38:21 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:38:22 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:38:26 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:38:28 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:38:35 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:38:35 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:38:38 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:38:38 [main] [LogUtils] - Executing: Enter text: phamthaoly206+013@gmail.com
+[INFO] 05-06-2023 12:38:38 [main] [LogUtils] - Executing: Enter text: 0359065013
+[INFO] 05-06-2023 12:38:39 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:38:39 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:38:39 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:38:43 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:38:43 [main] [LogUtils] - Expected result: Phạm Ly
+[INFO] 05-06-2023 12:38:43 [main] [LogUtils] - Actual result: Học viên: Phạm Ly
+[INFO] 05-06-2023 12:38:43 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:38:44 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Ngoại ngữ')]
+[INFO] 05-06-2023 12:38:44 [main] [LogUtils] - Executing: Click button: //a[contains(text(),'Bước tiếp theo')]
+[INFO] 05-06-2023 12:38:46 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Tiếng Anh')]
+[INFO] 05-06-2023 12:38:46 [main] [LogUtils] - Executing: Click button: //a[normalize-space()='Hoàn thành']
+[INFO] 05-06-2023 12:38:48 [main] [LogUtils] - Executing: Click element: Luyện Phản xạ Tiếng
+[INFO] 05-06-2023 12:38:53 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 05-06-2023 12:38:55 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 05-06-2023 12:40:59 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:41:00 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:41:05 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:41:07 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:41:11 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:41:11 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:41:15 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:41:15 [main] [LogUtils] - Executing: Enter text: phamthaoly206+013@gmail.com
+[INFO] 05-06-2023 12:41:16 [main] [LogUtils] - Executing: Enter text: 0359065013
+[INFO] 05-06-2023 12:41:16 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:41:16 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:41:16 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:41:18 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:41:43 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:41:44 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:41:49 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:41:50 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:41:56 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:41:56 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:41:58 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:41:59 [main] [LogUtils] - Executing: Enter text: phamthaoly206+014@gmail.com
+[INFO] 05-06-2023 12:41:59 [main] [LogUtils] - Executing: Enter text: 0359065014
+[INFO] 05-06-2023 12:42:00 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:42:00 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:42:00 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:42:03 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:42:03 [main] [LogUtils] - Expected result: Phạm Ly
+[INFO] 05-06-2023 12:42:03 [main] [LogUtils] - Actual result: Học viên: Phạm Ly
+[INFO] 05-06-2023 12:42:03 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:42:03 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Ngoại ngữ')]
+[INFO] 05-06-2023 12:42:04 [main] [LogUtils] - Executing: Click button: //a[contains(text(),'Bước tiếp theo')]
+[INFO] 05-06-2023 12:42:05 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Tiếng Anh')]
+[INFO] 05-06-2023 12:42:05 [main] [LogUtils] - Executing: Click button: //a[normalize-space()='Hoàn thành']
+[INFO] 05-06-2023 12:42:06 [main] [LogUtils] - Executing: Click element: Luyện Phản xạ Tiếng
+[INFO] 05-06-2023 12:42:09 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 05-06-2023 12:42:11 [main] [LogUtils] - Executing: Click element: //*[@id="webpush-slidedown-cancel-button"]
+[INFO] 05-06-2023 12:43:38 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:43:39 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:43:43 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:43:45 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:43:50 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:43:50 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:43:53 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:43:53 [main] [LogUtils] - Executing: Enter text: phamthaoly206+015@gmail.com
+[INFO] 05-06-2023 12:43:54 [main] [LogUtils] - Executing: Enter text: 0359065015
+[INFO] 05-06-2023 12:43:54 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:43:54 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:43:55 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:43:58 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:43:58 [main] [LogUtils] - Expected result: Phạm Ly
+[INFO] 05-06-2023 12:43:58 [main] [LogUtils] - Actual result: Học viên: Phạm Ly
+[INFO] 05-06-2023 12:43:58 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:43:58 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Ngoại ngữ')]
+[INFO] 05-06-2023 12:43:58 [main] [LogUtils] - Executing: Click button: //a[contains(text(),'Bước tiếp theo')]
+[INFO] 05-06-2023 12:43:59 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Tiếng Anh')]
+[INFO] 05-06-2023 12:44:00 [main] [LogUtils] - Executing: Click button: //a[normalize-space()='Hoàn thành']
+[INFO] 05-06-2023 12:44:01 [main] [LogUtils] - Executing: Click element: Luyện Phản xạ Tiếng
+[INFO] 05-06-2023 12:44:03 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 05-06-2023 12:44:05 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 05-06-2023 12:49:32 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 05-06-2023 12:49:34 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 12:49:40 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 12:49:41 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 12:49:46 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 12:49:46 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 12:49:53 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 05-06-2023 12:49:54 [main] [LogUtils] - Executing: Enter text: phamthaoly206+016@gmail.com
+[INFO] 05-06-2023 12:49:54 [main] [LogUtils] - Executing: Enter text: 0359065016
+[INFO] 05-06-2023 12:49:55 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:49:55 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 05-06-2023 12:49:55 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 12:49:59 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:49:59 [main] [LogUtils] - Expected result: Phạm Ly
+[INFO] 05-06-2023 12:49:59 [main] [LogUtils] - Actual result: Học viên: Phạm Ly
+[INFO] 05-06-2023 12:49:59 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:49:59 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Ngoại ngữ')]
+[INFO] 05-06-2023 12:50:00 [main] [LogUtils] - Executing: Click button: //a[contains(text(),'Bước tiếp theo')]
+[INFO] 05-06-2023 12:50:01 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Tiếng Anh')]
+[INFO] 05-06-2023 12:50:02 [main] [LogUtils] - Executing: Click button: //a[normalize-space()='Hoàn thành']
+[INFO] 05-06-2023 12:50:03 [main] [LogUtils] - Executing: Click element: Luyện Phản xạ Tiếng
+[INFO] 05-06-2023 12:50:08 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 05-06-2023 12:50:10 [main] [LogUtils] - Executing: Click element: //a[contains(text(),'Xem giỏ hàng và thanh toán')]
+[INFO] 05-06-2023 12:50:11 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:50:12 [main] [LogUtils] - Expected result: Luyện Phản xạ Tiếng Anh giao tiếp siêu hiệu quả
+[INFO] 05-06-2023 12:50:12 [main] [LogUtils] - Actual result: Luyện Phản xạ Tiếng Anh giao tiếp siêu hiệu quả
+[INFO] 05-06-2023 12:50:12 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:50:12 [main] [LogUtils] - Executing: Screenshot taken: Thêm khoá học vào giỏ hàng thành công
+[INFO] 05-06-2023 12:50:13 [main] [LogUtils] - Executing: Click element: THANH TO
+[INFO] 05-06-2023 12:50:15 [main] [LogUtils] - Executing: Click element: //input[@id='register-step-1']
+[INFO] 05-06-2023 12:50:16 [main] [LogUtils] - Executing: Click element: //button[normalize-space()='THANH TOÁN']
+[INFO] 05-06-2023 12:50:18 [main] [LogUtils] - Executing: Verify Text
+[INFO] 05-06-2023 12:50:20 [main] [LogUtils] - Expected result: ĐẶT HÀNG THÀNH CÔNG
+[INFO] 05-06-2023 12:50:20 [main] [LogUtils] - Actual result: ĐẶT HÀNG THÀNH CÔNG!
+[INFO] 05-06-2023 12:50:20 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 12:50:21 [main] [LogUtils] - Executing: Quit
+[INFO] 05-06-2023 13:30:01 [main] [LogUtils] - --------------Thực thi Test Case ID: SU01_Không nhập Họ tên--------------
+[INFO] 05-06-2023 13:30:02 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 13:30:08 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 13:30:09 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 13:30:13 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 13:30:13 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 13:30:17 [main] [LogUtils] - Executing: Click element: full_name
+[INFO] 05-06-2023 13:30:18 [main] [LogUtils] - Executing: Enter email: phamthaoly206+01@gmail.com
+[INFO] 05-06-2023 13:30:18 [main] [LogUtils] - Executing: Enter phone number: 0981359295
+[INFO] 05-06-2023 13:30:18 [main] [LogUtils] - Executing: Enter password: Thaoly12345678@@
+[INFO] 05-06-2023 13:30:19 [main] [LogUtils] - Executing: Enter password confirm: Thaoly12345678@@
+[INFO] 05-06-2023 13:30:19 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 13:30:21 [main] [LogUtils] - Executing: Screenshot taken: SU01_Không nhập Họ tên
+[INFO] 05-06-2023 13:30:21 [main] [LogUtils] - Executing: Verify alert name of sign up page
+[INFO] 05-06-2023 13:30:21 [main] [LogUtils] - Expected Result: Please fill out this field.
+[INFO] 05-06-2023 13:30:21 [main] [LogUtils] - Actual Result: Please fill out this field.
+[INFO] 05-06-2023 13:30:21 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 13:30:21 [main] [LogUtils] - Executing: Quit
+[INFO] 05-06-2023 13:30:22 [main] [LogUtils] - --------------Thực thi Test Case ID: SU02_Không nhập Email--------------
+[INFO] 05-06-2023 13:30:22 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 13:30:24 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 13:30:24 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 13:30:29 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 13:30:30 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 13:30:32 [main] [LogUtils] - Executing: Enter name: Phạm Thị Thảo Ly
+[INFO] 05-06-2023 13:30:32 [main] [LogUtils] - Executing: Enter email: 
+[INFO] 05-06-2023 13:30:33 [main] [LogUtils] - Executing: Enter phone number: 0981359295
+[INFO] 05-06-2023 13:30:33 [main] [LogUtils] - Executing: Enter password: Thaoly12345678@@
+[INFO] 05-06-2023 13:30:33 [main] [LogUtils] - Executing: Enter password confirm: Thaoly12345678@@
+[INFO] 05-06-2023 13:30:34 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 13:30:36 [main] [LogUtils] - Executing: Screenshot taken: SU02_Không nhập Email
+[INFO] 05-06-2023 13:30:37 [main] [LogUtils] - Executing: Verify alert email of sign up page
+[INFO] 05-06-2023 13:30:37 [main] [LogUtils] - Expected Result: Please fill out this field.
+[INFO] 05-06-2023 13:30:37 [main] [LogUtils] - Actual Result: Please fill out this field.
+[INFO] 05-06-2023 13:30:37 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 13:30:37 [main] [LogUtils] - Executing: Quit
+[INFO] 05-06-2023 13:30:38 [main] [LogUtils] - --------------Thực thi Test Case ID: SU03_Nhập Email thiếu @--------------
+[INFO] 05-06-2023 13:30:38 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 13:30:39 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 13:30:39 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 13:30:43 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 13:30:44 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 13:30:47 [main] [LogUtils] - Executing: Enter name: Phạm Thị Thảo Ly
+[INFO] 05-06-2023 13:30:47 [main] [LogUtils] - Executing: Enter email: phamthaoly206+01gmail.com
+[INFO] 05-06-2023 13:30:48 [main] [LogUtils] - Executing: Enter phone number: 0981359295
+[INFO] 05-06-2023 13:30:48 [main] [LogUtils] - Executing: Enter password: Thaoly12345678@@
+[INFO] 05-06-2023 13:30:49 [main] [LogUtils] - Executing: Enter password confirm: Thaoly12345678@@
+[INFO] 05-06-2023 13:30:49 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 13:30:51 [main] [LogUtils] - Executing: Screenshot taken: SU03_Nhập Email thiếu @
+[INFO] 05-06-2023 13:30:51 [main] [LogUtils] - Executing: Verify alert email of sign up page
+[INFO] 05-06-2023 13:30:51 [main] [LogUtils] - Expected Result: Please include an '@' in the email address. 'phamthaoly206+1gmail.com' is missing an '@'.
+[INFO] 05-06-2023 13:30:51 [main] [LogUtils] - Actual Result: Please include an '@' in the email address. 'phamthaoly206+01gmail.com' is missing an '@'.
+[ERROR] 05-06-2023 13:30:51 [main] [LogUtils] - Different result ---> Fail
+[INFO] 05-06-2023 13:30:51 [main] [LogUtils] - Executing: Quit
+[INFO] 05-06-2023 13:30:52 [main] [LogUtils] - --------------Thực thi Test Case ID: SU04_Không nhập Số điện thoại --------------
+[INFO] 05-06-2023 13:30:52 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 13:30:53 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 13:30:54 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 13:30:58 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 13:30:59 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 13:31:01 [main] [LogUtils] - Executing: Enter name: Phạm Thị Thảo Ly
+[INFO] 05-06-2023 13:31:02 [main] [LogUtils] - Executing: Enter email: phamthaoly206+01@gmail.com
+[INFO] 05-06-2023 13:31:02 [main] [LogUtils] - Executing: Enter phone number: 
+[INFO] 05-06-2023 13:31:03 [main] [LogUtils] - Executing: Enter password: Thaoly12345678@@
+[INFO] 05-06-2023 13:31:03 [main] [LogUtils] - Executing: Enter password confirm: Thaoly12345678@@
+[INFO] 05-06-2023 13:31:03 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 13:31:06 [main] [LogUtils] - Executing: Screenshot taken: SU04_Không nhập Số điện thoại 
+[INFO] 05-06-2023 13:31:06 [main] [LogUtils] - Executing: Verify alert of phone number
+[INFO] 05-06-2023 13:31:06 [main] [LogUtils] - Expected Result: Please fill out this field.
+[INFO] 05-06-2023 13:31:06 [main] [LogUtils] - Actual Result: Please fill out this field.
+[INFO] 05-06-2023 13:31:06 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 13:31:07 [main] [LogUtils] - Executing: Quit
+[INFO] 05-06-2023 13:31:07 [main] [LogUtils] - --------------Thực thi Test Case ID: SU05_Nhập Số điện thoại với 9 số--------------
+[INFO] 05-06-2023 13:31:07 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 13:31:09 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 13:31:10 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 13:31:15 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 13:31:16 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 13:31:18 [main] [LogUtils] - Executing: Enter name: Phạm Thị Thảo Ly
+[INFO] 05-06-2023 13:31:18 [main] [LogUtils] - Executing: Enter email: phamthaoly206+01@gmail.com
+[INFO] 05-06-2023 13:31:19 [main] [LogUtils] - Executing: Enter phone number: 098135929
+[INFO] 05-06-2023 13:31:19 [main] [LogUtils] - Executing: Enter password: Thaoly12345678@@
+[INFO] 05-06-2023 13:31:20 [main] [LogUtils] - Executing: Enter password confirm: Thaoly12345678@@
+[INFO] 05-06-2023 13:31:20 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 13:31:23 [main] [LogUtils] - Executing: Screenshot taken: SU05_Nhập Số điện thoại với 9 số
+[INFO] 05-06-2023 13:31:23 [main] [LogUtils] - Verify text phone number of sign up page
+[INFO] 05-06-2023 13:31:23 [main] [LogUtils] - Expected Result: Số điện thoại không hợp lệ
+[INFO] 05-06-2023 13:31:23 [main] [LogUtils] - Actual Result: Số điện thoại không hợp lệ
+[INFO] 05-06-2023 13:31:23 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 13:31:24 [main] [LogUtils] - Executing: Quit
+[INFO] 05-06-2023 13:31:24 [main] [LogUtils] - --------------Thực thi Test Case ID: SU06_Nhập Số điện thoại với 11 số--------------
+[INFO] 05-06-2023 13:31:24 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 13:31:26 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 13:31:26 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 13:31:30 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 13:31:31 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 13:31:34 [main] [LogUtils] - Executing: Enter name: Phạm Thị Thảo Ly
+[INFO] 05-06-2023 13:31:34 [main] [LogUtils] - Executing: Enter email: phamthaoly206+01@gmail.com
+[INFO] 05-06-2023 13:31:35 [main] [LogUtils] - Executing: Enter phone number: 09813592955
+[INFO] 05-06-2023 13:31:35 [main] [LogUtils] - Executing: Enter password: Thaoly12345678@@
+[INFO] 05-06-2023 13:31:36 [main] [LogUtils] - Executing: Enter password confirm: Thaoly12345678@@
+[INFO] 05-06-2023 13:31:37 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 13:31:40 [main] [LogUtils] - Executing: Screenshot taken: SU06_Nhập Số điện thoại với 11 số
+[INFO] 05-06-2023 13:31:40 [main] [LogUtils] - Verify text phone number of sign up page
+[INFO] 05-06-2023 13:31:40 [main] [LogUtils] - Expected Result: Số điện thoại không hợp lệ
+[INFO] 05-06-2023 13:31:40 [main] [LogUtils] - Actual Result: Số điện thoại không hợp lệ
+[INFO] 05-06-2023 13:31:40 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 13:31:41 [main] [LogUtils] - Executing: Quit
+[INFO] 05-06-2023 13:31:44 [main] [LogUtils] - --------------Thực thi Test Case ID: SU07_Nhập Số điện thoại với ký tự đặc biệt--------------
+[INFO] 05-06-2023 13:31:44 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 13:31:45 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 13:31:46 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 13:31:51 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 13:31:52 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 13:31:55 [main] [LogUtils] - Executing: Enter name: Phạm Thị Thảo Ly
+[INFO] 05-06-2023 13:31:55 [main] [LogUtils] - Executing: Enter email: phamthaoly206+01@gmail.com
+[INFO] 05-06-2023 13:31:56 [main] [LogUtils] - Executing: Enter phone number: 098135929@
+[INFO] 05-06-2023 13:31:56 [main] [LogUtils] - Executing: Enter password: Thaoly12345678@@
+[INFO] 05-06-2023 13:31:57 [main] [LogUtils] - Executing: Enter password confirm: Thaoly12345678@@
+[INFO] 05-06-2023 13:31:58 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 13:32:01 [main] [LogUtils] - Executing: Screenshot taken: SU07_Nhập Số điện thoại với ký tự đặc biệt
+[INFO] 05-06-2023 13:32:01 [main] [LogUtils] - Verify text phone number of sign up page
+[INFO] 05-06-2023 13:32:01 [main] [LogUtils] - Expected Result: Số điện thoại không hợp lệ
+[INFO] 05-06-2023 13:32:01 [main] [LogUtils] - Actual Result: Số điện thoại không hợp lệ
+[INFO] 05-06-2023 13:32:01 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 13:32:02 [main] [LogUtils] - Executing: Quit
+[INFO] 05-06-2023 13:32:04 [main] [LogUtils] - --------------Thực thi Test Case ID: SU08_Không nhập Mật khẩu--------------
+[INFO] 05-06-2023 13:32:04 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 13:32:06 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 13:32:06 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 13:32:10 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 13:32:13 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 13:32:16 [main] [LogUtils] - Executing: Enter name: Phạm Thị Thảo Ly
+[INFO] 05-06-2023 13:32:16 [main] [LogUtils] - Executing: Enter email: phamthaoly206+01@gmail.com
+[INFO] 05-06-2023 13:32:17 [main] [LogUtils] - Executing: Enter phone number: 0981359295
+[INFO] 05-06-2023 13:32:18 [main] [LogUtils] - Executing: Enter password: 
+[INFO] 05-06-2023 13:32:19 [main] [LogUtils] - Executing: Enter password confirm: Thaoly12345678@@
+[INFO] 05-06-2023 13:32:19 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 13:32:22 [main] [LogUtils] - Executing: Screenshot taken: SU08_Không nhập Mật khẩu
+[INFO] 05-06-2023 13:32:24 [main] [LogUtils] - Executing: Verify alert password of sign up page
+[INFO] 05-06-2023 13:32:24 [main] [LogUtils] - Expected Result: Please fill out this field.
+[INFO] 05-06-2023 13:32:24 [main] [LogUtils] - Actual Result: Please fill out this field.
+[INFO] 05-06-2023 13:32:24 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 13:32:25 [main] [LogUtils] - Executing: Quit
+[INFO] 05-06-2023 13:32:26 [main] [LogUtils] - --------------Thực thi Test Case ID: SU09_Nhập Mật khẩu với 5 ký tự--------------
+[INFO] 05-06-2023 13:32:26 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 13:32:28 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 13:32:29 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 13:32:33 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 13:32:36 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 13:32:38 [main] [LogUtils] - Executing: Enter name: Phạm Thị Thảo Ly
+[INFO] 05-06-2023 13:32:38 [main] [LogUtils] - Executing: Enter email: phamthaoly206+01@gmail.com
+[INFO] 05-06-2023 13:32:39 [main] [LogUtils] - Executing: Enter phone number: 0981359295
+[INFO] 05-06-2023 13:32:41 [main] [LogUtils] - Executing: Enter password: Thaoly
+[INFO] 05-06-2023 13:32:42 [main] [LogUtils] - Executing: Enter password confirm: Thaoly12345678@@
+[INFO] 05-06-2023 13:32:42 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 13:32:46 [main] [LogUtils] - Executing: Screenshot taken: SU09_Nhập Mật khẩu với 5 ký tự
+[INFO] 05-06-2023 13:32:48 [main] [LogUtils] - Executing: Verify alert password of sign up page
+[INFO] 05-06-2023 13:32:48 [main] [LogUtils] - Expected Result: Please fill out this field.
+[INFO] 05-06-2023 13:32:48 [main] [LogUtils] - Actual Result: Please fill out this field.
+[INFO] 05-06-2023 13:32:48 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 13:32:49 [main] [LogUtils] - Executing: Quit
+[INFO] 05-06-2023 13:32:50 [main] [LogUtils] - --------------Thực thi Test Case ID: SU10_Không nhập trường Nhập lại mật khẩu--------------
+[INFO] 05-06-2023 13:32:50 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 13:32:51 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 13:32:53 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 13:33:00 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 13:33:03 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 13:33:07 [main] [LogUtils] - Executing: Enter name: Phạm Thị Thảo Ly
+[INFO] 05-06-2023 13:33:08 [main] [LogUtils] - Executing: Enter email: phamthaoly206+01@gmail.com
+[INFO] 05-06-2023 13:33:09 [main] [LogUtils] - Executing: Enter phone number: 0981359295
+[INFO] 05-06-2023 13:33:10 [main] [LogUtils] - Executing: Enter password: Thaoly12345678@@
+[INFO] 05-06-2023 13:33:11 [main] [LogUtils] - Executing: Enter password confirm: 
+[INFO] 05-06-2023 13:33:13 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 13:33:17 [main] [LogUtils] - Executing: Screenshot taken: SU10_Không nhập trường Nhập lại mật khẩu
+[INFO] 05-06-2023 13:33:19 [main] [LogUtils] - Executing: Verify alert password of sign up page
+[INFO] 05-06-2023 13:33:19 [main] [LogUtils] - Expected Result: Please fill out this field.
+[INFO] 05-06-2023 13:33:19 [main] [LogUtils] - Actual Result: Please fill out this field.
+[INFO] 05-06-2023 13:33:19 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 13:33:20 [main] [LogUtils] - Executing: Quit
+[INFO] 05-06-2023 13:33:22 [main] [LogUtils] - --------------Thực thi Test Case ID: SU11_Nhập lại mật khẩu khác với trường mật khẩu--------------
+[INFO] 05-06-2023 13:33:22 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 05-06-2023 13:33:23 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 05-06-2023 13:33:26 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 05-06-2023 13:33:31 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 05-06-2023 13:33:35 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 05-06-2023 13:33:43 [main] [LogUtils] - Executing: Enter name: Phạm Thị Thảo Ly
+[INFO] 05-06-2023 13:33:44 [main] [LogUtils] - Executing: Enter email: phamthaoly206+01@gmail.com
+[INFO] 05-06-2023 13:33:44 [main] [LogUtils] - Executing: Enter phone number: 0981359295
+[INFO] 05-06-2023 13:33:46 [main] [LogUtils] - Executing: Enter password: Thaoly12345678@@
+[INFO] 05-06-2023 13:33:47 [main] [LogUtils] - Executing: Enter password confirm: Thaoly12345678
+[INFO] 05-06-2023 13:33:48 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 05-06-2023 13:33:51 [main] [LogUtils] - Executing: Screenshot taken: SU11_Nhập lại mật khẩu khác với trường mật khẩu
+[INFO] 05-06-2023 13:33:54 [main] [LogUtils] - Executing: Verify alert password of sign up page
+[INFO] 05-06-2023 13:33:54 [main] [LogUtils] - Expected Result: Please fill out this field.
+[INFO] 05-06-2023 13:33:54 [main] [LogUtils] - Actual Result: Please fill out this field.
+[INFO] 05-06-2023 13:33:54 [main] [LogUtils] - Same result ---> Pass
+[INFO] 05-06-2023 13:33:54 [main] [LogUtils] - Executing: Quit

@@ -1,0 +1,124 @@
+[INFO] 25-05-2023 09:28:27 [main] [LogUtils] - --------------Thực thi Test Case ID: SU04_Không nhập Số điện thoại --------------
+[INFO] 25-05-2023 09:28:28 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 25-05-2023 09:28:41 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 25-05-2023 09:28:43 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 25-05-2023 09:28:49 [main] [LogUtils] - Executing: Open Url: https://unica.vn/
+[INFO] 25-05-2023 09:28:50 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 25-05-2023 09:28:58 [main] [LogUtils] - Executing: Enter text: Phạm Thị Thảo Ly
+[INFO] 25-05-2023 09:28:58 [main] [LogUtils] - Executing: Enter text: dohoang046@gmail.com
+[INFO] 25-05-2023 09:28:59 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 25-05-2023 09:28:59 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 25-05-2023 09:28:59 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 25-05-2023 09:29:00 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 25-05-2023 09:29:05 [main] [LogUtils] - Executing: Screenshot taken: SU04_Không nhập Số điện thoại 
+[INFO] 25-05-2023 09:29:05 [main] [LogUtils] - Executing: Verify alert of phone number
+[INFO] 25-05-2023 09:29:05 [main] [LogUtils] - Expected Result: Please fill out this field.
+[INFO] 25-05-2023 09:29:05 [main] [LogUtils] - Actual Result: Please fill out this field.
+[INFO] 25-05-2023 09:29:05 [main] [LogUtils] - Same result ---> Pass
+[INFO] 25-05-2023 09:29:05 [main] [LogUtils] - Executing: Quit
+[INFO] 25-05-2023 09:36:08 [main] [LogUtils] - --------------Thực thi Test Case ID: SU04_Không nhập Số điện thoại --------------
+[INFO] 25-05-2023 09:36:09 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 25-05-2023 09:36:19 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 25-05-2023 09:36:22 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 25-05-2023 09:36:31 [main] [LogUtils] - Executing: Open Url: https://unica.vn/
+[INFO] 25-05-2023 09:36:31 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 25-05-2023 09:36:41 [main] [LogUtils] - Executing: Enter text: Phạm Thị Thảo Ly
+[INFO] 25-05-2023 09:36:43 [main] [LogUtils] - Executing: Enter text: dohoang046@gmail.com
+[INFO] 25-05-2023 09:36:44 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 25-05-2023 09:36:44 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 25-05-2023 09:36:45 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 25-05-2023 09:36:46 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 25-05-2023 09:36:51 [main] [LogUtils] - Executing: Screenshot taken: SU04_Không nhập Số điện thoại 
+[INFO] 25-05-2023 09:36:52 [main] [LogUtils] - Executing: Verify alert of phone number
+[INFO] 25-05-2023 09:36:52 [main] [LogUtils] - Expected Result: Please fill out this field.
+[INFO] 25-05-2023 09:36:52 [main] [LogUtils] - Actual Result: Please fill out this field.
+[INFO] 25-05-2023 09:36:52 [main] [LogUtils] - Same result ---> Pass
+[INFO] 25-05-2023 09:36:52 [main] [LogUtils] - Executing: Quit
+[INFO] 25-05-2023 09:40:58 [main] [LogUtils] - --------------Thực thi Test Case ID: SU04_Không nhập Số điện thoại --------------
+[INFO] 25-05-2023 09:40:59 [main] [LogUtils] - Launching Chrome browser...
+[ERROR] 25-05-2023 09:41:03 [main] [LogUtils] - Executing: Open browser: Chrome FAIL
+[INFO] 25-05-2023 09:41:05 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 25-05-2023 09:41:05 [main] [LogUtils] - Executing: Open Url: https://unica.vn/
+[INFO] 25-05-2023 09:41:05 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 25-05-2023 09:42:00 [main] [LogUtils] - --------------Thực thi Test Case ID: SU04_Không nhập Số điện thoại --------------
+[INFO] 25-05-2023 09:42:01 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 25-05-2023 09:42:11 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 25-05-2023 09:42:13 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 25-05-2023 09:42:13 [main] [LogUtils] - Executing: Open Url: https://unica.vn/
+[INFO] 25-05-2023 09:42:13 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 25-05-2023 09:43:35 [main] [LogUtils] - --------------Thực thi Test Case ID: S1_Tìm kiếm khoá học--------------
+[INFO] 25-05-2023 09:43:36 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 25-05-2023 09:43:45 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 25-05-2023 09:43:47 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 25-05-2023 09:43:52 [main] [LogUtils] - Executing: Open Url: https://unica.vn/
+[INFO] 25-05-2023 09:43:53 [main] [LogUtils] - Executing: Enter text: varCourseName
+[INFO] 25-05-2023 09:43:54 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 25-05-2023 09:43:56 [main] [LogUtils] - Executing: Screenshot taken: varTest CaseID
+[INFO] 25-05-2023 09:43:57 [main] [LogUtils] - Executing: Verify text
+[ERROR] 25-05-2023 09:43:57 [main] [LogUtils] - GetElement =
+[INFO] 25-05-2023 09:50:40 [main] [LogUtils] - --------------Thực thi Test Case ID: S1_Tìm kiếm khoá học--------------
+[INFO] 25-05-2023 09:50:42 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 25-05-2023 09:50:51 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 25-05-2023 09:50:53 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 25-05-2023 09:50:58 [main] [LogUtils] - Executing: Open Url: https://unica.vn/
+[INFO] 25-05-2023 09:51:00 [main] [LogUtils] - Executing: Enter text: varCourseName
+[INFO] 25-05-2023 09:51:00 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 25-05-2023 09:51:03 [main] [LogUtils] - Executing: Screenshot taken: S1_Tìm kiếm khoá học
+[INFO] 25-05-2023 09:51:04 [main] [LogUtils] - Executing: Verify text
+[ERROR] 25-05-2023 09:51:04 [main] [LogUtils] - GetElement =
+[INFO] 25-05-2023 09:56:29 [main] [LogUtils] - --------------Thực thi Test Case ID: S1_Tìm kiếm khoá học--------------
+[INFO] 25-05-2023 09:56:30 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 25-05-2023 09:56:40 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 25-05-2023 09:56:42 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 25-05-2023 09:56:48 [main] [LogUtils] - Executing: Open Url: https://unica.vn/
+[INFO] 25-05-2023 09:56:50 [main] [LogUtils] - Executing: Enter text: varCourseName
+[INFO] 25-05-2023 09:56:51 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 25-05-2023 10:22:46 [main] [LogUtils] - --------------Thực thi Test Case ID: S1_Tìm kiếm khoá học--------------
+[INFO] 25-05-2023 10:22:47 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 25-05-2023 10:22:56 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 25-05-2023 10:22:59 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 25-05-2023 10:23:09 [main] [LogUtils] - Executing: Open Url: https://unica.vn/
+[INFO] 25-05-2023 10:23:12 [main] [LogUtils] - Executing: Enter text: varCourseName
+[INFO] 25-05-2023 10:23:12 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 25-05-2023 10:23:15 [main] [LogUtils] - Executing: Screenshot taken: S1_Tìm kiếm khoá học
+[INFO] 25-05-2023 10:23:16 [main] [LogUtils] - Executing: Verify text
+[ERROR] 25-05-2023 10:23:16 [main] [LogUtils] - GetElement =
+[INFO] 25-05-2023 10:34:56 [main] [LogUtils] - --------------Thực thi Test Case ID: S1_Tìm kiếm khoá học--------------
+[INFO] 25-05-2023 10:34:57 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 25-05-2023 10:35:09 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 25-05-2023 10:35:10 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 25-05-2023 10:35:15 [main] [LogUtils] - Executing: Open Url: https://unica.vn/
+[INFO] 25-05-2023 10:35:17 [main] [LogUtils] - Executing: Enter text: Học giỏi Tiếng Anh toàn diện
+[INFO] 25-05-2023 10:35:18 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 25-05-2023 10:35:23 [main] [LogUtils] - Executing: Screenshot taken: S1_Tìm kiếm khoá học
+[INFO] 25-05-2023 10:35:24 [main] [LogUtils] - Executing: Verify text
+[INFO] 25-05-2023 10:35:24 [main] [LogUtils] - Expected Result: Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết
+[INFO] 25-05-2023 10:35:24 [main] [LogUtils] - Actual Result: Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết
+[INFO] 25-05-2023 10:35:24 [main] [LogUtils] - Same result ---> Pass
+[INFO] 25-05-2023 10:35:24 [main] [LogUtils] - Executing: Quit
+[INFO] 25-05-2023 10:39:13 [main] [LogUtils] - --------------Thực thi Test Case ID: S1_Tìm kiếm khoá học--------------
+[INFO] 25-05-2023 10:39:15 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 25-05-2023 10:39:24 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 25-05-2023 10:39:26 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 25-05-2023 10:39:32 [main] [LogUtils] - Executing: Open Url: https://unica.vn/
+[INFO] 25-05-2023 10:39:37 [main] [LogUtils] - Executing: Enter text: Học giỏi Tiếng Anh toàn diện
+[INFO] 25-05-2023 10:39:38 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 25-05-2023 10:39:41 [main] [LogUtils] - Executing: Screenshot taken: S1_Tìm kiếm khoá học
+[INFO] 25-05-2023 10:39:41 [main] [LogUtils] - Executing: Verify text
+[INFO] 25-05-2023 10:39:41 [main] [LogUtils] - Expected Result: Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết
+[INFO] 25-05-2023 10:39:41 [main] [LogUtils] - Actual Result: Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết
+[INFO] 25-05-2023 10:39:41 [main] [LogUtils] - Same result ---> Pass
+[INFO] 25-05-2023 10:39:41 [main] [LogUtils] - Executing: Quit
+[INFO] 25-05-2023 17:48:08 [main] [LogUtils] - --------------Thực thi Test Case ID: S1_Tìm kiếm khoá học--------------
+[INFO] 25-05-2023 17:48:11 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 25-05-2023 17:48:27 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 25-05-2023 17:48:29 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 25-05-2023 17:48:36 [main] [LogUtils] - Executing: Open Url: https://unica.vn/
+[INFO] 25-05-2023 17:48:39 [main] [LogUtils] - Executing: Enter text: Học giỏi Tiếng Anh toàn diện
+[INFO] 25-05-2023 17:48:39 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 25-05-2023 17:48:41 [main] [LogUtils] - Executing: Screenshot taken: S1_Tìm kiếm khoá học
+[INFO] 25-05-2023 17:48:42 [main] [LogUtils] - Executing: Verify text
+[INFO] 25-05-2023 17:48:42 [main] [LogUtils] - Expected Result: Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết
+[INFO] 25-05-2023 17:48:42 [main] [LogUtils] - Actual Result: Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết
+[INFO] 25-05-2023 17:48:42 [main] [LogUtils] - Same result ---> Pass
+[INFO] 25-05-2023 17:48:42 [main] [LogUtils] - Executing: Quit

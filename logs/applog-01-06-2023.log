@@ -1,0 +1,299 @@
+[INFO] 01-06-2023 08:55:17 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 08:55:19 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 08:55:28 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 08:55:30 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 08:55:38 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 08:55:38 [main] [LogUtils] - Executing: Click element: //body/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]
+[INFO] 01-06-2023 08:55:41 [main] [LogUtils] - Executing: Click element: //h3[contains(text(),'Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết')]
+[INFO] 01-06-2023 08:55:45 [main] [LogUtils] - Executing: Click element: //body/main[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/a[1]
+[INFO] 01-06-2023 08:55:47 [main] [LogUtils] - Executing: Click element: //header/div[1]/div[1]/div[1]/div[1]/div[3]/a[2]/i[1]
+[INFO] 01-06-2023 08:55:49 [main] [LogUtils] - Executing: Verify Text
+[INFO] 01-06-2023 08:58:12 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 08:58:13 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 08:58:16 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 08:58:18 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 08:58:23 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 08:58:23 [main] [LogUtils] - Executing: Click element: //body/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]
+[INFO] 01-06-2023 08:58:24 [main] [LogUtils] - Executing: Click element: //h3[contains(text(),'Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết')]
+[INFO] 01-06-2023 08:58:29 [main] [LogUtils] - Executing: Click element: //body/main[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/a[1]
+[INFO] 01-06-2023 08:58:31 [main] [LogUtils] - Executing: Click element: //header/div[1]/div[1]/div[1]/div[1]/div[3]/a[2]/i[1]
+[INFO] 01-06-2023 08:58:31 [main] [LogUtils] - Executing: Verify Text
+[INFO] 01-06-2023 09:02:24 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 09:02:25 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 09:02:30 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 09:02:32 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 09:02:36 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 09:02:37 [main] [LogUtils] - Executing: Click element: //body/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]
+[INFO] 01-06-2023 09:02:41 [main] [LogUtils] - Executing: Click element: //h3[contains(text(),'Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết')]
+[INFO] 01-06-2023 09:02:43 [main] [LogUtils] - Executing: Click element: //body/main[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/a[1]
+[INFO] 01-06-2023 09:02:53 [main] [LogUtils] - Executing: Click element: //header/div[1]/div[1]/div[1]/div[1]/div[3]/a[2]/i[1]
+[INFO] 01-06-2023 09:02:55 [main] [LogUtils] - Executing: Verify Text
+[ERROR] 01-06-2023 09:02:55 [main] [LogUtils] - GetElement =
+[INFO] 01-06-2023 09:04:03 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 09:04:04 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 09:04:08 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 09:04:10 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 09:04:18 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 09:04:18 [main] [LogUtils] - Executing: Click element: //body/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]
+[INFO] 01-06-2023 09:04:21 [main] [LogUtils] - Executing: Click element: //h3[contains(text(),'Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết')]
+[INFO] 01-06-2023 09:04:28 [main] [LogUtils] - Executing: Click element: //body/main[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/a[1]
+[INFO] 01-06-2023 09:04:30 [main] [LogUtils] - Executing: Click element: //header/div[1]/div[1]/div[1]/div[1]/div[3]/a[2]/i[1]
+[INFO] 01-06-2023 09:04:31 [main] [LogUtils] - Executing: Verify Text
+[ERROR] 01-06-2023 09:04:31 [main] [LogUtils] - GetElement =
+[INFO] 01-06-2023 09:17:13 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 09:17:14 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 09:17:19 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 09:17:21 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 09:17:26 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 09:17:27 [main] [LogUtils] - Executing: Click element: //body/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]
+[INFO] 01-06-2023 09:17:29 [main] [LogUtils] - Executing: Click element: //h3[contains(text(),'Học giỏi Tiếng Anh toàn diện: Nghe, Nói, Đọc, Viết')]
+[INFO] 01-06-2023 09:17:34 [main] [LogUtils] - Executing: Click element: //body/main[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/a[1]
+[INFO] 01-06-2023 14:22:10 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 14:22:11 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 14:22:18 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 14:22:20 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 14:22:23 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 14:22:25 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 01-06-2023 14:22:26 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 01-06-2023 14:22:28 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 01-06-2023 14:22:29 [main] [LogUtils] - Executing: Click element: //div[@class='u-detail-block-right block-sidebar']
+[INFO] 01-06-2023 14:22:30 [main] [LogUtils] - Executing: Click element: //header/div[1]/div[1]/div[1]/div[1]/div[3]/a[2]/i[1]
+[INFO] 01-06-2023 14:22:31 [main] [LogUtils] - Executing: Verify Text
+[INFO] 01-06-2023 14:32:20 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 14:32:21 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 14:32:27 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 14:32:29 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 14:32:34 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 14:32:34 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 01-06-2023 14:32:35 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 01-06-2023 14:32:36 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 01-06-2023 14:32:38 [main] [LogUtils] - Executing: Click element: //div[@class='u-detail-block-right block-sidebar']
+[INFO] 01-06-2023 14:32:39 [main] [LogUtils] - Executing: Click element: //header/div[1]/div[1]/div[1]/div[1]/div[3]/a[2]/i[1]
+[INFO] 01-06-2023 14:32:40 [main] [LogUtils] - Executing: Verify Text
+[INFO] 01-06-2023 14:36:52 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 14:36:52 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 14:36:56 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 14:36:58 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 14:37:03 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 14:37:05 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 01-06-2023 14:37:05 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 01-06-2023 14:37:06 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 01-06-2023 14:37:08 [main] [LogUtils] - Executing: Click element: //div[@class='u-sm-left']
+[INFO] 01-06-2023 14:38:46 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 14:38:47 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 14:38:51 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 14:38:52 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 14:38:58 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 14:38:59 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 01-06-2023 14:38:59 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 01-06-2023 14:39:01 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 01-06-2023 14:39:02 [main] [LogUtils] - Executing: Click element: Đã thêm vào g
+[INFO] 01-06-2023 14:40:18 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 14:40:19 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 14:40:24 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 14:40:25 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 14:40:38 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 14:40:42 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 01-06-2023 14:40:42 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 01-06-2023 14:40:46 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 01-06-2023 14:41:01 [main] [LogUtils] - Executing: Click element: Đã thêm vào g
+[INFO] 01-06-2023 14:44:11 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 14:44:12 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 14:44:17 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 14:44:19 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 14:44:27 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 14:44:28 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 01-06-2023 14:44:28 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 01-06-2023 14:44:30 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 01-06-2023 14:44:39 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 01-06-2023 14:44:40 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 01-06-2023 14:44:42 [main] [LogUtils] - Executing: Verify Text
+[INFO] 01-06-2023 14:44:42 [main] [LogUtils] - Actual result: Phương pháp tự học tiếng anh đỉnh cao
+[INFO] 01-06-2023 14:44:42 [main] [LogUtils] - Expected result: Phương pháp tự học tiếng anh đỉnh cao
+[INFO] 01-06-2023 14:44:43 [main] [LogUtils] - Executing: Screenshot taken: Cart01_Thêm khoá học vào giỏ hàng
+[INFO] 01-06-2023 14:44:43 [main] [LogUtils] - Executing: Click element: //i[@id='1657']
+[INFO] 01-06-2023 14:44:44 [main] [LogUtils] - Executing: Click element: //button[contains(text(),'Xóa khóa học')]
+[INFO] 01-06-2023 14:44:44 [main] [LogUtils] - Executing: Verify Text
+[INFO] 01-06-2023 14:44:47 [main] [LogUtils] - Actual result: Giỏ hàng (0 khóa học)
+[INFO] 01-06-2023 14:44:47 [main] [LogUtils] - Expected result: Giỏ hàng (0 khóa học)
+[INFO] 01-06-2023 14:44:48 [main] [LogUtils] - Executing: Screenshot taken: Cart01_Xoá khoá học trong giỏ hàng
+[INFO] 01-06-2023 14:44:48 [main] [LogUtils] - Executing: Quit
+[INFO] 01-06-2023 14:47:21 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 14:47:22 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 14:47:26 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 14:47:28 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 14:47:34 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 14:47:36 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 01-06-2023 14:47:36 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 01-06-2023 14:47:38 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 01-06-2023 14:47:46 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 01-06-2023 14:47:47 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 01-06-2023 14:48:23 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 14:48:24 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 14:48:29 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 14:48:31 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 14:48:39 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 14:48:41 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 01-06-2023 14:48:42 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 01-06-2023 14:48:44 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 01-06-2023 14:48:52 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 01-06-2023 14:48:53 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 01-06-2023 14:50:03 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 14:50:04 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 14:50:07 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 14:50:09 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 14:50:17 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 14:50:18 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 01-06-2023 14:50:18 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 01-06-2023 14:50:20 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 01-06-2023 14:50:27 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 01-06-2023 14:50:28 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 01-06-2023 14:53:13 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 14:53:14 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 14:53:18 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 14:53:20 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 14:53:24 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 14:53:27 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 01-06-2023 14:53:27 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 01-06-2023 14:53:30 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 01-06-2023 14:53:32 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 01-06-2023 14:53:34 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 01-06-2023 14:53:35 [main] [LogUtils] - Executing: Verify Text
+[INFO] 01-06-2023 14:53:35 [main] [LogUtils] - Expected result: null
+[INFO] 01-06-2023 14:53:35 [main] [LogUtils] - Actual result: Phương pháp tự học tiếng anh đỉnh cao
+[INFO] 01-06-2023 14:58:55 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 14:58:56 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 14:59:00 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 14:59:02 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 14:59:08 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 14:59:09 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 01-06-2023 14:59:09 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 01-06-2023 14:59:13 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 01-06-2023 14:59:18 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 01-06-2023 14:59:19 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 01-06-2023 15:00:29 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 15:00:30 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 15:00:34 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 15:00:36 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 15:00:43 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 15:00:46 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 01-06-2023 15:00:46 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 01-06-2023 15:00:48 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 01-06-2023 15:00:56 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 01-06-2023 15:00:57 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 01-06-2023 15:17:20 [main] [LogUtils] - --------------Thực thi Test Case ID: Cart01_Thêm khoá học vào giỏ hàng--------------
+[INFO] 01-06-2023 15:17:21 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 15:17:26 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 15:17:27 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 15:17:34 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 15:17:36 [main] [LogUtils] - Executing: Enter text: học Tiếng Anh 
+[INFO] 01-06-2023 15:17:37 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 01-06-2023 15:17:38 [main] [LogUtils] - Executing: Click element: //span[contains(text(),'Phương pháp tự học tiếng anh đỉnh cao')]
+[INFO] 01-06-2023 15:17:45 [main] [LogUtils] - Executing: Click element: //div[2]/div/div[2]/div/div[3]/div/a/i
+[INFO] 01-06-2023 15:17:47 [main] [LogUtils] - Executing: Click element: //a[@class='unica-cart']
+[INFO] 01-06-2023 15:29:35 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 01-06-2023 15:29:36 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 15:29:42 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 15:29:43 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 15:29:50 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 15:29:50 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 01-06-2023 15:29:55 [main] [LogUtils] - Executing: Click element: full_name
+[INFO] 01-06-2023 15:29:55 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:29:56 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:29:56 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:29:57 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:29:57 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 01-06-2023 15:29:57 [main] [LogUtils] - Executing: Quit
+[INFO] 01-06-2023 15:30:44 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 01-06-2023 15:30:45 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 15:30:49 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 15:30:50 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 15:30:56 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 15:30:56 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 01-06-2023 15:31:01 [main] [LogUtils] - Executing: Click element: full_name
+[INFO] 01-06-2023 15:31:01 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:31:02 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:31:02 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:31:03 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:31:03 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 01-06-2023 15:31:03 [main] [LogUtils] - Executing: Quit
+[INFO] 01-06-2023 15:33:26 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 01-06-2023 15:33:26 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 15:33:30 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 15:33:31 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 15:33:38 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 15:33:38 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 01-06-2023 15:33:42 [main] [LogUtils] - Executing: Click element: full_name
+[INFO] 01-06-2023 15:33:43 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:33:43 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:33:44 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:33:44 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:33:44 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 01-06-2023 15:33:45 [main] [LogUtils] - Executing: Quit
+[INFO] 01-06-2023 15:34:41 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 01-06-2023 15:34:42 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 15:34:45 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 15:34:46 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 15:34:52 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 15:34:53 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 01-06-2023 15:34:56 [main] [LogUtils] - Executing: Click element: full_name
+[INFO] 01-06-2023 15:34:57 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:34:57 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:34:58 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:34:58 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:34:59 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 01-06-2023 15:34:59 [main] [LogUtils] - Executing: Quit
+[INFO] 01-06-2023 15:36:41 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 01-06-2023 15:36:42 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 15:36:46 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 15:36:47 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 15:36:53 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 15:36:54 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 01-06-2023 15:36:57 [main] [LogUtils] - Executing: Click element: full_name
+[INFO] 01-06-2023 15:36:58 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:36:58 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:36:58 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:36:59 [main] [LogUtils] - Executing: Enter text: 
+[INFO] 01-06-2023 15:36:59 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 01-06-2023 15:36:59 [main] [LogUtils] - Executing: Quit
+[INFO] 01-06-2023 15:37:39 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 01-06-2023 15:37:40 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 15:37:43 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 15:37:44 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 15:37:50 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 15:37:50 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 01-06-2023 15:37:54 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 01-06-2023 15:37:55 [main] [LogUtils] - Executing: Enter text: phamthaoly206+2@gmail.com
+[INFO] 01-06-2023 15:37:55 [main] [LogUtils] - Executing: Enter text: 0359065355
+[INFO] 01-06-2023 15:37:56 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 01-06-2023 15:37:56 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 01-06-2023 15:37:56 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 01-06-2023 15:37:58 [main] [LogUtils] - Executing: Quit
+[INFO] 01-06-2023 15:47:40 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 01-06-2023 15:47:41 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 15:47:45 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 15:47:46 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 15:47:54 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 15:47:54 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 01-06-2023 15:48:00 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 01-06-2023 15:48:01 [main] [LogUtils] - Executing: Enter text: phamthaoly206+2@gmail.com
+[INFO] 01-06-2023 15:48:01 [main] [LogUtils] - Executing: Enter text: 0359065350
+[INFO] 01-06-2023 15:48:02 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 01-06-2023 15:48:02 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 01-06-2023 15:48:02 [main] [LogUtils] - Executing: Click button: submitRegister
+[INFO] 01-06-2023 15:48:08 [main] [LogUtils] - Executing: Enter text: Phương pháp tự học tiếng anh đỉnh cao
+[INFO] 01-06-2023 15:48:08 [main] [LogUtils] - Executing: Click element: //button[@class='btn unica-btn-search']
+[INFO] 01-06-2023 15:48:11 [main] [LogUtils] - Executing: Screenshot taken: 
+[INFO] 01-06-2023 15:48:12 [main] [LogUtils] - Executing: Verify Text
+[INFO] 01-06-2023 15:50:46 [main] [LogUtils] - --------------Thực thi Test Case ID: Pay01_Kiểm tra thanh toán--------------
+[INFO] 01-06-2023 15:50:47 [main] [LogUtils] - Launching Chrome browser...
+[INFO] 01-06-2023 15:50:51 [main] [LogUtils] - Executing: Open browser: Chrome
+[INFO] 01-06-2023 15:50:53 [main] [LogUtils] - Navigate to https://unica.vn/
+[INFO] 01-06-2023 15:51:00 [main] [LogUtils] - Executing: Open URL: https://unica.vn/
+[INFO] 01-06-2023 15:51:01 [main] [LogUtils] - Executing: Click element: //a[@class='unica-log-acc']
+[INFO] 01-06-2023 15:51:06 [main] [LogUtils] - Executing: Enter text: Phạm Ly
+[INFO] 01-06-2023 15:51:07 [main] [LogUtils] - Executing: Enter text: phamthaoly206+2@gmail.com
+[INFO] 01-06-2023 15:51:07 [main] [LogUtils] - Executing: Enter text: 0359065350
+[INFO] 01-06-2023 15:51:07 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 01-06-2023 15:51:08 [main] [LogUtils] - Executing: Enter text: Thaoly12345678@@
+[INFO] 01-06-2023 15:51:08 [main] [LogUtils] - Executing: Click button: submitRegister
